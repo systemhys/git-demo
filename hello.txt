@@ -1,3 +1,3 @@
 hello,git
-from my remote
+from remote
 from local
